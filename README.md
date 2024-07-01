@@ -9,7 +9,7 @@ möglichst gut nachzubilden.
 
 Jedes Neuron wird durch die folgenden Größen beschrieben.
 
-<img src="Bilder/NeuronModel.PNG" alt="drawing" 
+<img src="Bilder/NeuronModel.png" alt="drawing" 
 style="width:200px; height: 200px "/>
 
 
